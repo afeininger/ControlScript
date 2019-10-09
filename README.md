@@ -1,2 +1,0 @@
-# ControlScript
-ACN Control Script
